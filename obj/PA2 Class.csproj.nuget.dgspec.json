@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Libraries\\University Documents (UW)\\First Year (1A + 1B)\\1A\\BME 121 - Digital Computation\\BME121 (coding files)\\ProgrammingAssignments\\PA2 files\\PA2 Class\\PA2 Class.csproj": {}
+  },
+  "projects": {
+    "D:\\Libraries\\University Documents (UW)\\First Year (1A + 1B)\\1A\\BME 121 - Digital Computation\\BME121 (coding files)\\ProgrammingAssignments\\PA2 files\\PA2 Class\\PA2 Class.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Libraries\\University Documents (UW)\\First Year (1A + 1B)\\1A\\BME 121 - Digital Computation\\BME121 (coding files)\\ProgrammingAssignments\\PA2 files\\PA2 Class\\PA2 Class.csproj",
+        "projectName": "PA2 Class",
+        "projectPath": "D:\\Libraries\\University Documents (UW)\\First Year (1A + 1B)\\1A\\BME 121 - Digital Computation\\BME121 (coding files)\\ProgrammingAssignments\\PA2 files\\PA2 Class\\PA2 Class.csproj",
+        "packagesPath": "C:\\Users\\miche\\.nuget\\packages\\",
+        "outputPath": "D:\\Libraries\\University Documents (UW)\\First Year (1A + 1B)\\1A\\BME 121 - Digital Computation\\BME121 (coding files)\\ProgrammingAssignments\\PA2 files\\PA2 Class\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\miche\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
